@@ -4,7 +4,6 @@
     {
       "name": "MY",
       "server": "http://101.201.141.184:5244",
-      "search": false,
       "hidden": false,
       "login": {
         "username": "admin",
