@@ -3,6 +3,18 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "李杰",
+      "name": "李杰",
+      "type": 3,
+      "api": "csp_My",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "./json/wogg.json"
+      }
+    },
+    {
       "key": "商店",
       "name": "商店",
       "type": 3,
