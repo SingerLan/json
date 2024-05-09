@@ -7,7 +7,7 @@
       "type": 3,
       "api": "csp_My",
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "token": "影視天下第一",
         "filter": "./json/my.json"
