@@ -10,7 +10,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "./json/wogg.json"
+        "filter": "./json/my.json"
       }
     },
     {
