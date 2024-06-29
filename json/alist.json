@@ -9,6 +9,11 @@
         "username": "admin",
         "password": "123qwe"
       }
+    },
+    {
+      "name": "oranger",
+      "server": "https://alist.oranger.site",
+      "hidden": false
     }
   ]
 }
