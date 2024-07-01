@@ -41,7 +41,11 @@
           {
             "name": "MY",
             "server": "https://alist.oranger.site",
-            "hidden": false
+            "hidden": false,
+            "login": {
+              "username": "guest",
+              "password": "guest"
+            }
           }
         ]
       }
