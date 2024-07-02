@@ -16,7 +16,7 @@
         "drives": [
           {
             "name": "MY",
-            "server": "http://101.201.141.184:5244",
+            "server": "http://127.0.0.1:5244",
             "hidden": false,
             "login": {
               "username": "admin",
