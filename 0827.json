@@ -28,30 +28,6 @@
       }
     },
     {
-      "key": "李杰2",
-      "name": "李杰2",
-      "type": 3,
-      "api": "csp_My",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "李杰2",
-        "filter": "./json/my.json",
-        "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-        "drives": [
-          {
-            "name": "MY",
-            "server": "http://127.0.0.1:5244",
-            "hidden": false,
-            "login": {
-              "username": "admin",
-              "password": "123qwe"
-            }
-          }
-        ]
-      }
-    },
-    {
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
