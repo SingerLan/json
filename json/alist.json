@@ -14,6 +14,14 @@
       "name": "oranger",
       "server": "https://alist.oranger.site",
       "hidden": false
-    }
-  ]
+    },
+    {  "name": "local",
+      "server": "http://192.168.2.93:5244",  
+      "hidden": false, 
+      "login": {    
+       "username": "admin",   
+       "password": "1"  
+      }  
+      }
+    ]
 }
