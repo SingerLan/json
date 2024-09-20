@@ -1,7 +1,7 @@
 {
   "spider": "./jar/custom_spider.jar;md5;5652be994ca62a3b0dae1cf4a50ee9c9",
   "wallpaper": "https://raw.gitcode.com/baidu_38752858/json/raw/master/random.png",
-  "danmu": "https://raw.gitcode.com/baidu_38752858/danmuku/raw/main/home.json",
+  "danmu": "https://raw.bgithub.xyz/SingerLan/danmuku_backups/main/home.json",
   "sites": [
     {"key":"金牌影视","name":"金牌影视","type": 3, "api": "csp_Fjvtw","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
