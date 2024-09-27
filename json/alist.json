@@ -1,16 +1,6 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-  "drives": [
-    {
-      "name": "MY",
-      "server": "http://101.201.141.184:5244",
-      "hidden": false,
-      "login": {
-        "username": "admin",
-        "password": "123qwe"
-      }
-    },
-    {
+  "drives": [{
       "name": "oranger",
       "server": "https://alist.oranger.site",
       "hidden": false
