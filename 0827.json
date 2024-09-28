@@ -2,6 +2,11 @@
   "spider": "./jar/custom_spider.jar;md5;5652be994ca62a3b0dae1cf4a50ee9c9",
   "wallpaper": "https://raw.gitcode.com/baidu_38752858/json/raw/master/random.png",
   "danmu": "https://raw.bgithub.xyz/SingerLan/danmuku_backups/main/home.json",
+  "live": [
+    {
+      "name": "XINLI", "type": 0, "playerType": 2, "url": "https://raw.bgithub.xyz/SingerLan/live/master/88.txt", "boot": true
+    }
+  ],
   "sites": [
     {"key":"金牌影视","name":"金牌影视","type": 3, "api": "csp_Fjvtw","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"直播","name":"直播","type": 3, "api": "csp_Live","searchable": 1,"quickSearch": 1,"filterable": 1},
