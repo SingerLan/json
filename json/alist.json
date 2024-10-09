@@ -1,17 +1,8 @@
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "vodPic": "../pic.png",
   "drives": [{
       "name": "oranger",
       "server": "https://alist.oranger.site",
       "hidden": false
-    },
-    {  "name": "local",
-      "server": "http://192.168.2.93:5244",  
-      "hidden": false, 
-      "login": {    
-       "username": "admin",   
-       "password": "1"  
-      }  
-      }
-    ]
+    }]
 }
