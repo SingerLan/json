@@ -4,6 +4,7 @@
   "danmu": "https://raw.gitcode.com/baidu_38752858/danmaku/raw/main/home.json.gz",
   "sites": [
     {"key":"片库","name":"片库","type": 3, "api": "csp_Gzyrdnt","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"修罗","name":"修罗","type": 3, "api": "csp_Xldy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "豆瓣",
       "name": "豆瓣",
