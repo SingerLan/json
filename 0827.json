@@ -3,10 +3,6 @@
   "wallpaper": "https://raw.kkgithub.com/SingerLan/json/master/random.png",
   "danmu": "https://raw.gitcode.com/baidu_38752858/danmaku/raw/main/home.json.gz",
   "sites": [
-    {"key":"LIVE","name":"LIVE","type": 3, "api": "csp_Live","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"JP","name":"JP","type": 3, "api": "csp_Fjvtw","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"4k","name":"4k","type": 3, "api": "csp_M4kav","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"DD","name":"DD","type": 3, "api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"片库","name":"片库","type": 3, "api": "csp_Gzyrdnt","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "豆瓣",
